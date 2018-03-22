@@ -1,0 +1,25 @@
+{
+  "name": "js-tdd-pratica-curso",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso do TDD na Prática.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glaucia86/js-tdd-pratica-curso.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library",
+    "npm"
+  ],
+  "author": "Glaucia Lemos <glaucia_lemos86@hotmail.com> (http://www.code4coders.wordpress.com.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glaucia86/js-tdd-pratica-curso/issues"
+  },
+  "homepage": "https://github.com/glaucia86/js-tdd-pratica-curso#readme"
+}
