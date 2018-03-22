@@ -10,6 +10,7 @@ Haverá desenvolvimento de projetos ao decorrer do curso!
 
 - Visual Studio Code
 - Node.Js
+- NPM
 - JavaScript
 - EcmaScript 6/7/8
 - TDD (Mocha, Chai, Sinon e Instambul)
@@ -19,7 +20,7 @@ Haverá desenvolvimento de projetos ao decorrer do curso!
 
 - **Seção 1: Boas Práticas**
   - :white_check_mark: ~~1.1 Introdução~~
-  - 1.2 Configurando o NPM e Criando o package.json
+  - :white_check_mark: ~~1.2 Configurando o NPM e Criando o package.json~~
   - 1.3 Criando o gitignore de forma simples
   - 1.4 Criando arquivos para documentação
   - 1.5 Padrões de Código (Styleguides)
