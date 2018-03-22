@@ -21,7 +21,7 @@ Haverá desenvolvimento de projetos ao decorrer do curso!
 - **Seção 1: Boas Práticas**
   - :white_check_mark: ~~1.1 Introdução~~
   - :white_check_mark: ~~1.2 Configurando o NPM e Criando o package.json~~
-  - 1.3 Criando o gitignore de forma simples
+  - :white_check_mark: ~~1.3 Criando o gitignore de forma simples~~
   - 1.4 Criando arquivos para documentação
   - 1.5 Padrões de Código (Styleguides)
   - 1.6 Instalando e Usando o ESLint
