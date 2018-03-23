@@ -25,7 +25,7 @@ Haverá desenvolvimento de projetos ao decorrer do curso!
   - :white_check_mark: ~~1.4 Criando arquivos para documentação~~
   - :white_check_mark: ~~1.5 Padrões de Código (Styleguides)~~
   - :white_check_mark: ~~1.6 Instalando e Usando o ESLint~~
-  - 1.7 UPDATE: Atualizando o ESLint para 4+
+  - :white_check_mark: ~~1.7 UPDATE: Atualizando o ESLint para 4+~~
   - 1.8 Configurando o editorconfig
   - 1.9 Criando um NPM Script
   - 1.10 Configurando Hooks no Git
