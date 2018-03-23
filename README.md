@@ -68,7 +68,7 @@ Haverá desenvolvimento de projetos ao decorrer do curso!
   - 2.35 Introdução a Set
   - 2.36 Introdução ao WeakSet
   - 2.37 Introdução ao Map
-  - 2.38 Introduação ao WeakMap
+  - 2.38 Introdução ao WeakMap
   
 
 
