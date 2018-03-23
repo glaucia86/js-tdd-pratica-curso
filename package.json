@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/glaucia86/js-tdd-pratica-curso/issues"
   },
-  "homepage": "https://github.com/glaucia86/js-tdd-pratica-curso#readme"
+  "homepage": "https://github.com/glaucia86/js-tdd-pratica-curso#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.9.0"
+  }
 }
