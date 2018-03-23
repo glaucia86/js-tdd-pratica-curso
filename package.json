@@ -4,11 +4,13 @@
   "description": "Biblioteca do curso do TDD na Prática.",
   "main": "index.js",
   "scripts": {
+    "lint": "node_modules/.bin/eslint src/Secao-1/*.js",
+    "prepush": "npm run lint",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/glaucia86/js-tdd-pratica-curso.git"
+    "url": "https://github.com/glaucia86/js-tdd-pratica-curso.git"
   },
   "keywords": [
     "js",
@@ -25,6 +27,7 @@
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-airbnb-base": "^12.1.0",
-    "eslint-plugin-import": "^2.9.0"
+    "eslint-plugin-import": "^2.9.0",
+    "husky": "^0.14.3"
   }
 }
