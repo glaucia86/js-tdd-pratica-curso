@@ -11,16 +11,20 @@
 <body>
 
   <script>
-    var animal = 'cat';
-    console.log(animal);
+    const secretNumber = 28;
 
-    {
-      let animal = 'dog';
-      console.log(animal);
+    const pessoa = {
+      nome: 'Glaucia',
+      idade: 31 //saída: 31
     }
 
-    console.log(animal);
+    //Caso queira tornar o 'const' como imutável devemos fazer da
+    //seguinte maneira:
+    Object.freeze(pessoa);
 
+    //Isso demonstra que o 'const' não é imutável
+    pessoa.idade = 53;
+    console.log(pessoa); //saída: 53
   </script>
 </body>
 
