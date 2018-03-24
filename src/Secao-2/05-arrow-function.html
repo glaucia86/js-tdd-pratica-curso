@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>05 - Introdução a Arrow Function</title>
+</head>
+
+<body>
+
+  <script>
+
+    const estados = ['Rio de Janeiro', 'São Paulo', 'Minas Gerais'];
+
+    const melhoresCidades = estados.map(function(nome) {
+      return `Amamos ${nome}`;
+    });
+
+    console.log(melhoresCidades);
+
+    //Com Arrow Function
+    const cidades = ['Rio de Janeiro', 'São Paulo', 'Belo Horizonte'];
+
+    const melhoresCidades2 = cidades.map(nome =>`Amamos ${nome}`);
+
+    console.log(melhoresCidades2);
+
+    //Uso do Arrow Function Encadeado com 'filter' e 'map':
+    const encadeado = cidades
+                        .filter(nome => nome === 'São Paulo')
+                        .map(nome => `Amamos ${nome}`);
+
+    console.log(encadeado);
+  </script>
+
+</body>
+
+</html>
