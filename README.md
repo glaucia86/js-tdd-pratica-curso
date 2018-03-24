@@ -33,7 +33,7 @@ Haverá desenvolvimento de projetos ao decorrer do curso!
 - **Seção 2: Aprendendo ES6:**
   - :white_check_mark: ~~2.1 Introdução ao ES6~~
   - :white_check_mark: ~~2.2 Escopo do JS~~
-  - 2.3 Variável let no JS
+  - :white_check_mark: ~~2.3 Variável let no JS~~
   - 2.4 Variável const no JS
   - 2.5 Temporal Dead Zone
   - 2.6 Introdução a Arrow Function
