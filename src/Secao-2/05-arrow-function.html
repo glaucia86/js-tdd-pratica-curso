@@ -11,10 +11,9 @@
 <body>
 
   <script>
-
     const estados = ['Rio de Janeiro', 'São Paulo', 'Minas Gerais'];
 
-    const melhoresCidades = estados.map(function(nome) {
+    const melhoresCidades = estados.map(function (nome) {
       return `Amamos ${nome}`;
     });
 
@@ -23,16 +22,17 @@
     //Com Arrow Function
     const cidades = ['Rio de Janeiro', 'São Paulo', 'Belo Horizonte'];
 
-    const melhoresCidades2 = cidades.map(nome =>`Amamos ${nome}`);
+    const melhoresCidades2 = cidades.map(nome => `Amamos ${nome}`);
 
     console.log(melhoresCidades2);
 
     //Uso do Arrow Function Encadeado com 'filter' e 'map':
     const encadeado = cidades
-                        .filter(nome => nome === 'São Paulo')
-                        .map(nome => `Amamos ${nome}`);
+      .filter(nome => nome === 'São Paulo')
+      .map(nome => `Amamos ${nome}`);
 
     console.log(encadeado);
+
   </script>
 
 </body>
