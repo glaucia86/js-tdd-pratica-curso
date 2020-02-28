@@ -36,7 +36,7 @@ Haverá desenvolvimento de projetos ao decorrer do curso!
   - :white_check_mark: ~~2.3 Variável let no JS~~
   - :white_check_mark: ~~2.4 Variável const no JS~~
   - :white_check_mark: ~~2.5 Temporal Dead Zone~~
-  - 2.6 Introdução a Arrow Function
+  - :white_check_mark: ~~2.6 Introdução a Arrow Function~~
   - 2.7 Arrow Function e o Lexical This
   - 2.8 Introdução a Template Literals
   - 2.9 Usando Template Literals para HTML Fragments
