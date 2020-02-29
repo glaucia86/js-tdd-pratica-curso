@@ -1,3 +1,5 @@
+/* eslint-disable func-names */
+/* eslint-disable prefer-arrow-callback */
 /**
  * File: arrow.js
  * Date: 28/02/2020

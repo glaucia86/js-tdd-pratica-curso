@@ -1,3 +1,7 @@
+// @ts-nocheck
+/* eslint-disable prefer-const */
+/* eslint-disable no-shadow */
+/* eslint-disable no-var */
 /**
  * File: let.js
  * Date: 28/02/2020

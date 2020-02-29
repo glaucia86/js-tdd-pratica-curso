@@ -1,3 +1,4 @@
+/* eslint-disable prefer-const */
 /**
  * File: temporal.js
  * Date: 28/02/2020

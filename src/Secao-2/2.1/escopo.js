@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+// @ts-nocheck
 /**
  * File: escopo.js
  * Date: 28/02/2020

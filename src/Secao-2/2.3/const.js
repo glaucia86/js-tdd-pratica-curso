@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /**
  * File: const.js
  * Date: 28/02/2020
